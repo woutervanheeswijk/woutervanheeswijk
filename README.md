@@ -2,7 +2,7 @@
 
 ### Hello World 👋 I'm Wouter.
 
-I am an assistant professor in Operations Research and Financial Engineering. My main professional interests lie in the areas of Monte Carlo simulation, data science and machine learning, with a specific focus on Reinforcement Learning to solve business problems.
+I am an assistant professor in Operations Research and Financial Engineering. My main professional interests lie in the areas of Monte Carlo simulation, data science and machine learning, with a specific focus on Reinforcement Learning to solve business problems. On this GitHub page, you will mainly find (i) repositories related to Reinforcement Learning and (ii) basic notebooks for Financial Engineering applications. 
 
 You can find me here:
 
@@ -10,7 +10,7 @@ You can find me here:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/woutervanheeswijk/)
 [<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/>](https://www.researchgate.net/profile/Wouter-Van-Heeswijk)
 
-I primarily work in Python these days, and have experience with the following languages and tools:
+I primarily code in Python these days, and have experience with the following languages and tools:
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
